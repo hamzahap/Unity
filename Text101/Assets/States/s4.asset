@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88d7a318ca0f754ea1846f2a4b3c82b, type: 3}
+  m_Name: s4
+  m_EditorClassIdentifier: 
+  storyText: "Well, all three of us made this and brought it to where we are now.\r\nYep,
+    fucking nowhere!\r\nAlthough Melvic Mare is the \"Real Mare\" as we know him.\r\nBut
+    that \"Mare\" word is a fucking disease. It spreads and look \r\nhow much it
+    has spread. It sounds stupid yet people use it. Why?\r\nWHYYYYYYYY!!!\r\nWell....Nobody
+    knows.....\r\nMaybe its a meme, Maybe its an obsession,Maybe it is something
+    that will haunt us till we  stay in the group.\r\nWho knows? NOBODY!\r\nIt was
+    all fun and games when it was casual. It feels like a chant,\r\nsomething that
+    takes over you without you realizing.\r\nI can go longer about this but do you
+    wanna?\r\n\r\n1. Yea\r\n2. Nah, it's fucking boring"
+  nextStates:
+  - {fileID: 11400000, guid: 1c1125899f8c32641a579021480407d2, type: 2}
+  - {fileID: 11400000, guid: d276898f6f2feaf4aa07c97139282dab, type: 2}
