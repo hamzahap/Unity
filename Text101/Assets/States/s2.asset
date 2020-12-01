@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88d7a318ca0f754ea1846f2a4b3c82b, type: 3}
+  m_Name: s2
+  m_EditorClassIdentifier: 
+  storyText: "Oooh! Great choice! I dont want more blind and deaf people in Warzone.\r\nI
+    have another question for you......\r\nWho do you think is a bigger dumbass?\r\n1.
+    Zeeshan\t\r\n2. Hamzah\r\n3. David"
+  nextStates:
+  - {fileID: 11400000, guid: 384061a86771c0b4d9fbb28f396b150d, type: 2}
+  - {fileID: 11400000, guid: d276898f6f2feaf4aa07c97139282dab, type: 2}
+  - {fileID: 11400000, guid: d276898f6f2feaf4aa07c97139282dab, type: 2}
